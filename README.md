@@ -2,5 +2,3 @@
 ![](https://raw.githubusercontent.com/ccktrn/ccktrn/main/profile-summary-card-output/prussian/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/ccktrn/ccktrn/main/profile-summary-card-output/prussian/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/ccktrn/ccktrn/main/profile-summary-card-output/prussian/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/ccktrn/ccktrn/main/profile-summary-card-output/prussian/3-stats.svg) ![](https://raw.githubusercontent.com/ccktrn/ccktrn/main/profile-summary-card-output/prussian/4-productive-time.svg)
-
-[VRCP | a VRChat API Client Software](https://github.com/ccamgr/vrcp)
